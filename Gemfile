@@ -2,6 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "kramdown-parser-gfm"
-
-gemspec
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache" 
