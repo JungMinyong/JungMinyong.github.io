@@ -4,9 +4,9 @@
 entries:
   - title: I'm Jung, Minyong (정민용), a graduate student studying computational astrophysics and cosmology at Seoul National University.
     entries:
-      - title: email - wispedia@snu.ac.kr
-      - title: About me
-        url: aboutme
+      - title: "Feel free to contact me! <a href='mailto:wispedia@snu.ac.kr'>wispedia@snu.ac.kr</a>"
+  - title: About me
+    url: aboutme
 
   - title: all researches
     url: researches
@@ -14,7 +14,7 @@ entries:
     url: https://github.com/JungMinyong
   - title: another list
     entries:
-      - title: I'm Jung, Minyong (정민용), a graduate student studying computational astrophysics and cosmology at Seoul National University.
+      - title: This hompage is incomplete now
         entries:
           - title: with subsubitems
           - title: example page
