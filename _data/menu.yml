@@ -12,10 +12,3 @@ entries:
     url: researches
   - title: github
     url: https://github.com/JungMinyong
-  - title: another list
-    entries:
-      - title: This hompage is incomplete now
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
