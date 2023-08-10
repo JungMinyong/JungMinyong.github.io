@@ -15,7 +15,7 @@ The AGORA High-resolution Galaxy Simulations Comparison Project. V: Satellite Ga
 -------------
 Minyong Jung, Santi Roca-Fabrega, Ji-hoon Kim, and 18 coauthors in the AGORA collaboration.
 
-We analyze and compare the satellite halo populations at $z\sim2$ in the high-resolution cosmological zoom-in simulations of a 10^12 Msun target halo (z=0 mass) carried out on eight widely-used astrophysical simulation codes (Art-I, Enzo, Ramses, Changa-T, Gadget-3, Gear, Arepo-T, and Gizmo) for the AGORA High-resolution Galaxy Simulations Comparison Project. 
+We analyze and compare the satellite halo populations at z&#126;2 in the high-resolution cosmological zoom-in simulations of a 10^12 Msun target halo (z=0 mass) carried out on eight widely-used astrophysical simulation codes (Art-I, Enzo, Ramses, Changa-T, Gadget-3, Gear, Arepo-T, and Gizmo) for the AGORA High-resolution Galaxy Simulations Comparison Project. 
 We use slightly different redshift epochs near z=2 for each code (hereafter "z&#126;2") at which the eight simulations are in the same stage in the target halo's merger history.
 We also study the dark matter-only (DMO) simulations with the same cosmological initial condition to isolate the effect of baryonic physics.   
 We find that the number of satellite halos at z&#126;2 in all participating AGORA hydrodynamic simulations ("CosmoRun") is fewer than its counterpart in the DMO runs.  
