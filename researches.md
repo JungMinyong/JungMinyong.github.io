@@ -19,7 +19,7 @@ We analyze and compare the satellite halo populations at $z\sim2$ in the high-re
 We use slightly different redshift epochs near z=2 for each code (hereafter "z~2") at which the eight simulations are in the same stage in the target halo's merger history.
 We also study the dark matter-only (DMO) simulations with the same cosmological initial condition to isolate the effect of baryonic physics.   
 We find that the number of satellite halos at z~2 in all participating AGORA hydrodynamic simulations ("CosmoRun") is fewer than its counterpart in the DMO runs.  
-When we consider only the halos containing stellar particles at $z\sim2$, the number of satellite {\it galaxies} is significantly fewer than that of dark matter halos in all participating AGORA simulations, and is comparable to the number of present-day satellites near the Milky Way or M31.  
+When we consider only the halos containing stellar particles at z~2, the number of satellite {\it galaxies} is significantly fewer than that of dark matter halos in all participating AGORA simulations, and is comparable to the number of present-day satellites near the Milky Way or M31.  
 This difference between the hydrodynamic simulations and the DMO simulations can be attributed to various baryonic effects.  
 After identifying the matched pairs of halos between the CosmoRun simulations and the DMO simulations, we discover that each CosmoRun halo tends to be less massive than its DMO counterpart. 
 The so-called "missing satellite problem" is fully resolved across all participating codes simply by implementing the common baryonic physics adopted in AGORA and the stellar feedback prescription commonly used in each code, with sufficient numerical resolution (<100 proper pc at z=2).  
