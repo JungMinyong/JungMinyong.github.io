@@ -31,8 +31,6 @@ Numerical differences in cosmological simulations and correcting them with machi
 -------------
 In prep.
 
-Minyong Jung et al.
-
 
 
 [^1]: These authors contributed equally to the article by leading the effort to perform and analyze the simulations discussed herein.
