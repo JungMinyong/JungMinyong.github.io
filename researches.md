@@ -11,7 +11,7 @@ The recent discovery of diffuse dwarf galaxies that are deficient in dark matter
 
 
 
-The AGORA High-resolution Galaxy Simulations Comparison Project. V: Satellite Galaxy Populations In A Cosmological Zoom-in Simulation of A Milky Way-mass Halo. 
+The AGORA High-resolution Galaxy Simulations Comparison Project. V: Satellite Galaxy Populations In A Cosmological Zoom-in Simulation of A Milky Way-mass Halo 
 -------------
 Minyong Jung, Santi Roca-Fabrega, Ji-hoon Kim, and 18 coauthors in the AGORA collaboration.
 
@@ -27,7 +27,7 @@ This marks the first time that different codes have converged on a common conclu
 We also find reasonable inter-code agreement in other properties of satellite galaxies such as the stellar mass$-$halo mass relation and the mass-metallicity relation.  
 
 
-Numerical differences in cosmological simulations and correcting them with machine learning. 
+Numerical differences in cosmological simulations and correcting them with machine learning
 -------------
 Minyong Jung et al.
 
