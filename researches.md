@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Dark Matter Deficient Galaxies Produced via High-velocity Galaxy Collisions in High-resolution Numerical Simulations span style="font-size:smaller;">[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...899...25S/abstract)</span> 
+Dark Matter Deficient Galaxies Produced via High-velocity Galaxy Collisions in High-resolution Numerical Simulations span style="font-size:larger;">[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...899...25S/abstract)</span> 
 -------------
 Eun-jin Shin[^1], Minyong Jung[^1], Goojin Kwon[^1], Ji-hoon Kim, Joohyun Lee, Yongseok Jo, and Boon Kiat Oh
  
