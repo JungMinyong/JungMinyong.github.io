@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Dark Matter Deficient Galaxies Produced via High-velocity Galaxy Collisions in High-resolution Numerical Simulations.
+Dark Matter Deficient Galaxies Produced via High-velocity Galaxy Collisions in High-resolution Numerical Simulations [ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...899...25S/abstract)
 -------------
 Eun-jin Shin[^1], Minyong Jung[^1], Goojin Kwon[^1], Ji-hoon Kim, Joohyun Lee, Yongseok Jo, and Boon Kiat Oh
  
@@ -25,6 +25,13 @@ After identifying the matched pairs of halos between the CosmoRun simulations an
 The so-called "missing satellite problem" is fully resolved across all participating codes simply by implementing the common baryonic physics adopted in AGORA and the stellar feedback prescription commonly used in each code, with sufficient numerical resolution (<100 proper pc at z=2).  
 This marks the first time that different codes have converged on a common conclusion for this issue. 
 We also find reasonable inter-code agreement in other properties of satellite galaxies such as the stellar mass$-$halo mass relation and the mass-metallicity relation.  
+
+
+Numerical differences in cosmological simulations and correcting them with machine learning. 
+-------------
+Minyong Jung et al.
+
+In prep.
 
 
 [^1]: These authors contributed equally to the article by leading the effort to perform and analyze the simulations discussed herein.
