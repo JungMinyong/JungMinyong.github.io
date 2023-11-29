@@ -27,11 +27,14 @@ This marks the first time that different codes have converged on a common conclu
 We also find reasonable inter-code agreement in other properties of satellite galaxies such as the stellar mass$-$halo mass relation and the mass-metallicity relation.  
 
 
-Numerical differences in cosmological simulations and correcting them with machine learning
+Merger Tree-based Halo/Galaxy Matching Between Cosmological Simulations with Different Resolutions:  Galaxy-by-galaxy Resolution Study and the Machine Learning-based Correction
 -------------
-In prep.
+Minyong Jung, Ji-hoon Kim, Boon Kiat Oh, Sungwook E. Hong, Jaehyun Lee, Juhan Kim (In prep.)
 
-
+We introduce a novel halo/galaxy matching technique between two cosmological simulations with different resolutions, which utilizes the positions and masses of halos along their subhalo merger tree.  
+With this tool, we conduct a study of resolution biases through the {\it galaxy-by-galaxy} inspection of a pair of simulations that have the same simulation configuration but different mass resolutions. For this study, we utilize a suite of {\sc IllustrisTNG} simulations to measure the resolution biases of galaxy properties. We find that, with the subgrid physics model calibrated for TNG100-1, subhalos in TNG100-1 (high resolution) have $\lesssim 0.5$ dex higher stellar masses than their counterparts in the TNG100-2 (low-resolution). 
+It is also discovered that the subhalos with $M_{\rm gas} \sim 10^{8.5} \msun$ in TNG100-1 have $\sim 0.5$ dex higher gas mass than those in TNG100-2. The mass profiles of the subhalos reveal that the dark matter masses of low-resolution subhalos are $\sim0.6$ times lower within 2 kpc, near the resolution limit. The differences in stellar mass and hot gas mass are most pronounced in the central region. We exploit machine learning to build a correction mapping for the physical quantities of subhalos from low- to high-resolution simulations (TNG300-1 and TNG100-1), which enables us to find an efficient way to compile a high-resolution galaxy catalog even from a low-resolution simulation. We find that the machine does not only use features at $z=0$ but also utilizes the features at $1 < z < 4$ when predicting the galaxy properties of high-resolution subhalos, especially for stellar mass and metallicity. 
+Our tools can easily be applied to other large cosmological simulations, testing and mitigating the resolution biases of their numerical codes and subgrid physics models. 
 
 [^1]: These authors contributed equally to the article by leading the effort to perform and analyze the simulations discussed herein.
 
