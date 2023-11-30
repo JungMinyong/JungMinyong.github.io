@@ -16,3 +16,6 @@ See Jung+ (2023) for more details. Citation to the paper is requested if you use
 | flag  | We recommend excluding the subhalo pair with flag=0. Subhalos with $M_{\rm DM} >$ 3e9 Msun (or 3e8 Msun for TNG50) and min(prob1, prob2) > 0.7 are marked as one. |
 
 
+Corrected subhalo properties for TNG300-1
+-------------
+See Jung+ (2023) for more details. Citation to the paper is requested if you use these data catalogs. The corrected properties for the three fields: 'SubhaloMassType0', 'SubhaloMassType1', and 'SubhaloGasMetallicity', are available. All the subhalos with $M_{\rm DM} >$ 3e9 Msun are included.
