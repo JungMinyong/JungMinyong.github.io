@@ -6,7 +6,7 @@ title: Data
 TNG subhalo matching catalog between high- and low-resolution runs
 -------------
 See Jung+ (2023) for more details. Citation to the paper is requested if you use these data catalogs. 
-[Download](./dummy1.txt)
+[Download](./dummy1.txt.zip)
 
 | Field | Description                                                                                                                                                      |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,6 +20,6 @@ See Jung+ (2023) for more details. Citation to the paper is requested if you use
 Corrected subhalo properties for TNG300-1
 -------------
 See Jung+ (2023) for more details. Citation to the paper is requested if you use these data catalogs. The corrected properties for the three fields: 'SubhaloMassType0', 'SubhaloMassType1', and 'SubhaloGasMetallicity', are available. All the subhalos with $M_{\rm DM} >$ 3e9 Msun are included. The units are the same as those used for the corresponding fields in the TNG collaboration.
-[Download](./dummy1.txt)
+[Download](./dummy1.txt.zip)
 
 
