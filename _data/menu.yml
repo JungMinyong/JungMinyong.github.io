@@ -11,5 +11,7 @@ entries:
     url: researches
   - title: data
     url: data
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=luqHTM8AAAAJ&hl=en
   - title: github
     url: https://github.com/JungMinyong
