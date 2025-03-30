@@ -9,6 +9,8 @@ entries:
     url: aboutme
   - title: research
     url: researches
+  - title: CV
+    url: CV_JungMinyong.pdf
   - title: data
     url: data
   - title: Google Scholar
