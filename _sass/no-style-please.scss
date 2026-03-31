@@ -4,6 +4,7 @@
   img {
     filter: invert(1);
 
+    &.dark-invert { filter: invert(0); }
     &.ioda { filter: invert(0); }
   }
 }

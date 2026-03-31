@@ -24,6 +24,7 @@ Galaxy-by-galaxy Resolution Study and the Machine Learning-based Correction
   <img
     src="/ml-correction.png"
     alt="Machine learning-based correction figure"
+    class="dark-invert"
     style="max-width: 100%; height: auto;"
   >
 </p>

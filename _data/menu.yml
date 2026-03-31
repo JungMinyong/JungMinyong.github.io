@@ -9,11 +9,9 @@ entries:
     url: aboutme
   - title: research
     url: researches
-  - title: CV
-    url: CV_JungMinyong.pdf
   - title: data
     url: data
-  - title: Google Scholar
+  - title: publications (Google Scholar)
     url: https://scholar.google.com/citations?user=luqHTM8AAAAJ&hl=en
   - title: github
     url: https://github.com/JungMinyong
