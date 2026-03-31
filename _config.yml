@@ -4,7 +4,7 @@ email: wispedia@snu.ac.kr # email of site's author
 url: https://jungminyong.github.io # root address of the site
 #baseurl: "/me" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Graduate student in computational astrophysics and cosmology at Seoul National University
 
 permalink: /:slug.html
 
