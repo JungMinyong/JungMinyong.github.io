@@ -14,7 +14,7 @@ Working with Ji-hoon Kim, Santi Roca-Fàbrega, Joel R. Primack, and the AGORA Co
 
 Formation of star clusters with a hydrodynamic+Direct-Nbody code
 -------------
-Working with Yongseok Jo, Greg L. Bryan, Eunwoo Jung
+Working with Yongseok Jo, Greg L. Bryan, Eunwoo Chung
 
 
 Galaxy-by-galaxy Resolution Study and the Machine Learning-based Correction
